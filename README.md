@@ -19,12 +19,12 @@ Ruby on Rail's Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 </p>
 
-<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FLTDev3012&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FLTDev3012&stroke=ffffff&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/FLTDev3012" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLTDev3012&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/FLTDev3012" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLTDev3012&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-stats.vercel.app/api?username=FLTDev3012&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="FLTDev3012's GitHub stats" /></a>
+<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-stats.vercel.app/api?username=FLTDev3012&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=false&show_icons=true" alt="FLTDev3012's GitHub stats" /></a>
 
 
 
