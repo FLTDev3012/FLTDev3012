@@ -11,7 +11,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="60" height="60" alt="Ruby" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -37,7 +37,7 @@
 🇦🇺 Web artisan, I craft my jewels with Ruby on Rails. Like a goldsmith, I sculpt each line of code with precision. In every application I build, I aim to capture the brilliance and purity of this precious stone, offering dazzling digital experiences.<br><br><br> 🇫🇷 Artisan du web, je taille mes bijoux avec Ruby on Rails. Tel un orfèvre je sculpte avec précision chaque ligne de code. Dans chaque application que je construis, je cherche à capturer l'éclat et la pureté de cette pierre précieuse, offrant des expériences numériques étincelantes.
 <br><br><br>
 *    🌍  I'm based in Brisbane QLD Autralia 🇦🇺 <br>
-*    🖥️  See my portfolio at [www.fltdev.net](http://www.fltdev.net) {color:red;}
+*    🖥️  See my portfolio at www.fltdev.net
 <br>
 *    ✉️  You can contact me at dorian3012@hotmail.fr
 
