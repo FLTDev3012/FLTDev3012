@@ -9,8 +9,6 @@ Ruby on Rail's Developer
 *   🌍  I'm based in Brisbane QLD Autralia 🇦🇺 / Merlimont France 🇫🇷
 *   🖥️  See my portfolio at [www.fltdev.net](http://fltdev.net)
 *   ✉️  You can contact me at [dorian3012@hotmail.fr](mailto:dorian3012@hotmail.fr)
-<a href="https://www.github.com/FLTDev3012" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/FLTDev3012?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
@@ -26,14 +24,8 @@ Ruby on Rail's Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-stats.vercel.app/api?username=FLTDev3012&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FLTDev3012's GitHub stats" /></a>
+<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-stats.vercel.app/api?username=FLTDev3012&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="FLTDev3012's GitHub stats" /></a>
 
-<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FLTDev3012&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FLTDev3012&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/FLTDev3012"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=FLTDev3012&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/FLTDev3012" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLTDev3012&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/FLTDev3012" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLTDev3012&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
