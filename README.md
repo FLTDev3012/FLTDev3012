@@ -4,7 +4,7 @@
 
 ------------------------
 
-<h3 align=center>Skills </h3>
+<h3 align=center >Skills </h3>
 
 <p align=center>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -37,7 +37,8 @@
 🇦🇺 Web artisan, I craft my jewels with Ruby on Rails. Like a goldsmith, I sculpt each line of code with precision. In every application I build, I aim to capture the brilliance and purity of this precious stone, offering dazzling digital experiences.<br><br><br> 🇫🇷 Artisan du web, je taille mes bijoux avec Ruby on Rails. Tel un orfèvre je sculpte avec précision chaque ligne de code. Dans chaque application que je construis, je cherche à capturer l'éclat et la pureté de cette pierre précieuse, offrant des expériences numériques étincelantes.
 <br><br><br>
 *    🌍  I'm based in Brisbane QLD Autralia 🇦🇺 <br>
-*    🖥️  See my portfolio at www.fltdev.net<br>
+*    🖥️  See my portfolio at [www.fltdev.net](http://www.fltdev.net) {color:red;}
+<br>
 *    ✉️  You can contact me at dorian3012@hotmail.fr
 
 
