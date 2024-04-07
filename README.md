@@ -1,6 +1,6 @@
 <h1 align=center>I'm Dorian 👋</h1>
 
-<h3 align=center>Ruby on Rail's Developer</h3>
+<h3 align=center>${\color{red}Ruby }$ ${\color{red}on }$ ${\color{red}Rail's }$ ${\color{red}Developer }$ </h3>
 
 ------------------------
 
@@ -37,9 +37,9 @@
 🇦🇺 Web artisan, I craft my jewels with Ruby on Rails. Like a goldsmith, I sculpt each line of code with precision. In every application I build, I aim to capture the brilliance and purity of this precious stone, offering dazzling digital experiences.<br><br><br> 🇫🇷 Artisan du web, je taille mes bijoux avec Ruby on Rails. Tel un orfèvre je sculpte avec précision chaque ligne de code. Dans chaque application que je construis, je cherche à capturer l'éclat et la pureté de cette pierre précieuse, offrant des expériences numériques étincelantes.
 <br><br><br>
 *    🌍  I'm based in Brisbane QLD Autralia 🇦🇺 <br>
-*    🖥️  See my portfolio at www.fltdev.net
+*    🖥️  See my portfolio at www.fltdev.net 
 <br>
-*    ✉️  You can contact me at dorian3012@hotmail.fr
+*    ✉️  You can contact me at dorian3012@hotmail.fr 
 
 
                     
